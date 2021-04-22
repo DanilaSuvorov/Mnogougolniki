@@ -1,0 +1,12 @@
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\bin\Debug\Polyg_file.exe.config
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\bin\Debug\Polyg_file.exe
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\bin\Debug\Polyg_file.pdb
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.csprojAssemblyReference.cache
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polygons.Form1.resources
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polygons.Form2.resources
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polygons.Form3.resources
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.Properties.Resources.resources
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.csproj.GenerateResource.cache
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.csproj.CoreCompileInputs.cache
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.exe
+C:\Users\suvorov.danila\Downloads\Project_polygon-master\Project_polygon-master\Polyg_file\obj\Debug\Polyg_file.pdb
